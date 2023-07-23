@@ -18,9 +18,10 @@
 <!--        <module>lab-13-spring-data-jpa</module>-->
 <!--        <module>lab-19-datasource-pool</module>-->
 <!--        <module>lab-22-validate</module>-->
-
-
-
+<!--        <module>lab-23-springmvc</module>-->
+<!--        <module>lab-24-apidoc</module>-->
+<!--        <module>lab-26-session</module>-->
+<!--        <module>lab-29-async</module>-->
 
 
 
@@ -30,16 +31,16 @@
 
 
 
-        <module>lab-23-springmvc</module>
-        <module>lab-24-apidoc</module>
-        <module>lab-26-session</module>
-        <module>lab-28-task</module>
-        <module>lab-29-async</module>
-        <module>lab-37-logger</module>
+
+
+
+<!--        <module>lab-28-task</module>-->
+
+<!--        <module>lab-37-logger</module>-->
         <module>lab-43-springbootConfig</module>
         <module>lab-47-auto-config</module>
         <module>lab-49-lambok</module>
-        <module>lab-68-spring-security-oauth</module>
+<!--        <module>lab-68-spring-security-oauth</module>-->
 
 <!--        <module>lab-02-spring-security-oauth</module>-->
 <!--        <module>lab-03-kafka</module>-->
