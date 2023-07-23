@@ -9,7 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>lab-17</artifactId>
+    <artifactId>lab-17-dynamic-datasource</artifactId>
     <packaging>pom</packaging>
     <modules>
         <module>lab-17-dynamic-datasource-baomidou-01</module>
