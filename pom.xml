@@ -10,8 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
 
-<!-- Spring Boot 示例 -->
 <!--已学习部分start-->
+<!-- Spring Boot 示例 -->
 <!--        <module>lab-01-spring-security</module>-->
 <!--        <module>lab-12-mybatis</module>-->
 <!--        <module>lab-17-dynamic-datasource</module>-->
@@ -22,26 +22,25 @@
 <!--        <module>lab-24-apidoc</module>-->
 <!--        <module>lab-26-session</module>-->
 <!--        <module>lab-29-async</module>-->
-
+<!--        <module>lab-43-springbootConfig</module>-->
+<!--        <module>lab-49-lambok</module>-->
+<!--        <module>lab-30-duboo</module>-->
 
 
 <!--已学习部分end-->
 
 
-
-
-
-
-
-
-<!--        <module>lab-28-task</module>-->
-
-<!--        <module>lab-37-logger</module>-->
-        <module>lab-43-springbootConfig</module>
         <module>lab-47-auto-config</module>
-        <module>lab-49-lambok</module>
-<!--        <module>lab-68-spring-security-oauth</module>-->
 
+
+
+
+
+<!-- Spring Boot 示例 -->
+<!--        <module>lab-28-task</module>-->
+<!--        <module>lab-37-logger</module>-->
+<!--        <module>lab-72-minio</module>-->
+<!--        <module>lab-68-spring-security-oauth</module>-->
 <!--        <module>lab-02-spring-security-oauth</module>-->
 <!--        <module>lab-03-kafka</module>-->
 <!--        <module>lab-04-rabbitmq</module>-->
@@ -132,7 +131,7 @@
 <!--        <module>labx-28-consul-config</module>-->
 <!--        <module>labx-29-spring-cloud-consul-bus</module>-->
 <!--        <module>labx-30-spring-cloud-grpc</module>-->
-<!--        <module>lab-72-minio</module>-->
+
     </modules>
 
 </project>
